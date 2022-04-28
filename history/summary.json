@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 157,
-    "timeDay": 79,
-    "timeWeek": 66,
-    "timeMonth": 1033,
-    "timeYear": 177,
+    "time": 156,
+    "timeDay": 66,
+    "timeWeek": 64,
+    "timeMonth": 1032,
+    "timeYear": 176,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 31,
-    "timeWeek": 181,
-    "timeMonth": 211,
-    "timeYear": 225,
+    "timeDay": 233,
+    "timeWeek": 210,
+    "timeMonth": 210,
+    "timeYear": 226,
     "dailyMinutesDown": {
       "2021-10-21": 21
     }
@@ -49,17 +49,16 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 335,
-    "timeDay": 124,
-    "timeWeek": 270,
+    "timeDay": 408,
+    "timeWeek": 307,
     "timeMonth": 278,
-    "timeYear": 321,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2022-04-14": 29,
       "2022-03-24": 24,
       "2021-11-29": 36,
       "2021-10-08": 25,
-      "2021-10-04": 18,
-      "2021-04-28": 40
+      "2021-10-04": 18
     }
   },
   {
@@ -92,8 +91,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 29,
-    "timeDay": 25,
-    "timeWeek": 17,
+    "timeDay": 15,
+    "timeWeek": 16,
     "timeMonth": 50,
     "timeYear": 32,
     "dailyMinutesDown": {}
@@ -104,7 +103,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "25.48%",
+    "uptime": "25.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -115,7 +114,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-27": 69,
+      "2022-04-28": 81,
+      "2022-04-27": 1440,
       "2022-04-26": 1440,
       "2022-04-25": 1440,
       "2022-04-24": 1440,
@@ -478,8 +478,7 @@
       "2021-05-02": 1440,
       "2021-05-01": 1440,
       "2021-04-30": 1440,
-      "2021-04-29": 1440,
-      "2021-04-28": 1440
+      "2021-04-29": 1440
     }
   }
 ]
