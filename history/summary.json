@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 204,
-    "timeWeek": 137,
-    "timeMonth": 129,
+    "timeDay": 95,
+    "timeWeek": 125,
+    "timeMonth": 130,
     "timeYear": 178,
     "dailyMinutesDown": {}
   },
@@ -29,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 102,
-    "timeWeek": 163,
-    "timeMonth": 191,
+    "timeDay": 30,
+    "timeWeek": 134,
+    "timeMonth": 188,
     "timeYear": 222,
-    "dailyMinutesDown": {
-      "2021-10-21": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 308,
-    "timeDay": 320,
-    "timeWeek": 320,
-    "timeMonth": 313,
+    "timeDay": 135,
+    "timeWeek": 294,
+    "timeMonth": 305,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2022-07-08": 545,
@@ -90,8 +88,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 31,
-    "timeDay": 65,
-    "timeWeek": 41,
+    "timeDay": 23,
+    "timeWeek": 35,
     "timeMonth": 35,
     "timeYear": 28,
     "dailyMinutesDown": {}
@@ -102,7 +100,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "19.88%",
+    "uptime": "19.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -113,7 +111,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-20": 81,
+      "2022-10-21": 77,
+      "2022-10-20": 1440,
       "2022-10-19": 1440,
       "2022-10-18": 1440,
       "2022-10-17": 1440,
@@ -476,8 +475,7 @@
       "2021-10-25": 1440,
       "2021-10-24": 1440,
       "2021-10-23": 1440,
-      "2021-10-22": 1440,
-      "2021-10-21": 1440
+      "2021-10-22": 1440
     }
   }
 ]
