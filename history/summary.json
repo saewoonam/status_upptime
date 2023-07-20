@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 69,
-    "timeWeek": 75,
-    "timeMonth": 115,
+    "timeDay": 129,
+    "timeWeek": 84,
+    "timeMonth": 117,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2023-07-09": 23
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 223,
-    "timeDay": 389,
-    "timeWeek": 213,
-    "timeMonth": 223,
-    "timeYear": 232,
+    "timeDay": 93,
+    "timeWeek": 194,
+    "timeMonth": 218,
+    "timeYear": 231,
     "dailyMinutesDown": {
       "2023-01-25": 27
     }
@@ -46,15 +46,15 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "98.44%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
     "time": 301,
-    "timeDay": 326,
-    "timeWeek": 266,
+    "timeDay": 265,
+    "timeWeek": 251,
     "timeMonth": 321,
-    "timeYear": 310,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2023-07-18": 23,
       "2023-06-20": 17,
@@ -104,9 +104,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 27,
-    "timeDay": 15,
-    "timeWeek": 20,
-    "timeMonth": 25,
+    "timeDay": 44,
+    "timeWeek": 23,
+    "timeMonth": 26,
     "timeYear": 27,
     "dailyMinutesDown": {}
   },
@@ -116,7 +116,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "14.84%",
+    "uptime": "14.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -127,7 +127,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-19": 122,
+      "2023-07-20": 59,
+      "2023-07-19": 1440,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
       "2023-07-16": 1440,
@@ -490,8 +491,7 @@
       "2022-07-24": 1440,
       "2022-07-23": 1440,
       "2022-07-22": 1440,
-      "2022-07-21": 1440,
-      "2022-07-20": 1440
+      "2022-07-21": 1440
     }
   }
 ]
