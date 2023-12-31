@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 74,
-    "timeWeek": 80,
-    "timeMonth": 92,
+    "timeDay": 81,
+    "timeWeek": 81,
+    "timeMonth": 91,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2023-07-09": 23
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 218,
-    "timeDay": 156,
-    "timeWeek": 192,
-    "timeMonth": 184,
+    "timeDay": 64,
+    "timeWeek": 177,
+    "timeMonth": 180,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2023-01-25": 27
@@ -46,17 +46,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "99.87%",
     "time": 310,
-    "timeDay": 361,
-    "timeWeek": 342,
-    "timeMonth": 398,
+    "timeDay": 279,
+    "timeWeek": 324,
+    "timeMonth": 392,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2023-12-30": 12,
       "2023-12-28": 20,
       "2023-12-15": 26,
       "2023-12-12": 217,
@@ -108,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 27,
-    "timeDay": 13,
-    "timeWeek": 16,
-    "timeMonth": 16,
+    "timeDay": 23,
+    "timeWeek": 17,
+    "timeMonth": 17,
     "timeYear": 27,
     "dailyMinutesDown": {}
   },
@@ -123,7 +122,7 @@
     "uptime": "12.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -131,7 +130,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-30": 1067,
+      "2023-12-31": 53,
+      "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
@@ -494,8 +494,7 @@
       "2023-01-04": 1440,
       "2023-01-03": 1440,
       "2023-01-02": 1440,
-      "2023-01-01": 1440,
-      "2022-12-31": 1440
+      "2023-01-01": 1440
     }
   }
 ]
