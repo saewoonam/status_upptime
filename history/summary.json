@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 167,
-    "timeWeek": 107,
+    "timeDay": 72,
+    "timeWeek": 105,
     "timeMonth": 88,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 178,
-    "timeWeek": 193,
-    "timeMonth": 196,
-    "timeYear": 199,
+    "timeDay": 85,
+    "timeWeek": 173,
+    "timeMonth": 194,
+    "timeYear": 198,
     "dailyMinutesDown": {}
   },
   {
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 306,
-    "timeDay": 371,
-    "timeWeek": 332,
-    "timeMonth": 318,
+    "time": 305,
+    "timeDay": 114,
+    "timeWeek": 290,
+    "timeMonth": 311,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2024-01-15": 23,
@@ -71,8 +71,7 @@
       "2023-05-12": 15,
       "2023-03-31": 16,
       "2023-03-28": 101,
-      "2023-03-27": 38,
-      "2023-03-16": 22
+      "2023-03-27": 38
     }
   },
   {
@@ -105,9 +104,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 26,
-    "timeDay": 93,
-    "timeWeek": 39,
-    "timeMonth": 23,
+    "timeDay": 21,
+    "timeWeek": 40,
+    "timeMonth": 24,
     "timeYear": 26,
     "dailyMinutesDown": {}
   },
@@ -117,7 +116,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "12.14%",
+    "uptime": "12.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -128,7 +127,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 46,
+      "2024-03-15": 47,
+      "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
@@ -491,8 +491,7 @@
       "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
-      "2023-03-17": 1440,
-      "2023-03-16": 1440
+      "2023-03-17": 1440
     }
   }
 ]
