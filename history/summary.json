@@ -24,9 +24,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 226,
     "timeMonth": 221,
     "timeYear": 201,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-09": 0
+    }
   },
   {
     "name": "Hacker News",
@@ -122,7 +124,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-09": 55,
+      "2024-07-09": 204,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
