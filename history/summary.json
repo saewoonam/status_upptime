@@ -24,19 +24,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 81,
-    "timeWeek": 226,
-    "timeMonth": 221,
+    "timeDay": 125,
+    "timeWeek": 219,
+    "timeMonth": 219,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2024-07-09": 0
+      "2024-07-09": 13
     }
   },
   {
@@ -124,7 +124,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-09": 204,
+      "2024-07-09": 217,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
