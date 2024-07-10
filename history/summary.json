@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 108,
-    "timeDay": 332,
-    "timeWeek": 128,
-    "timeMonth": 96,
-    "timeYear": 110,
+    "time": 107,
+    "timeDay": 84,
+    "timeWeek": 130,
+    "timeMonth": 97,
+    "timeYear": 108,
     "dailyMinutesDown": {
       "2024-05-01": 35
     }
@@ -26,18 +26,16 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 125,
-    "timeWeek": 219,
-    "timeMonth": 219,
+    "timeDay": 284,
+    "timeWeek": 246,
+    "timeMonth": 227,
     "timeYear": 201,
-    "dailyMinutesDown": {
-      "2024-07-09": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.90%",
-    "time": 306,
-    "timeDay": 121,
-    "timeWeek": 298,
-    "timeMonth": 298,
-    "timeYear": 297,
+    "time": 307,
+    "timeDay": 499,
+    "timeWeek": 299,
+    "timeMonth": 302,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2024-06-25": 15,
       "2024-05-31": 17,
@@ -99,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 28,
-    "timeDay": 141,
-    "timeWeek": 33,
-    "timeMonth": 26,
+    "timeDay": 15,
+    "timeWeek": 34,
+    "timeMonth": 27,
     "timeYear": 29,
     "dailyMinutesDown": {
       "2024-05-01": 35
@@ -113,7 +111,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "11.14%",
+    "uptime": "11.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -124,7 +122,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-09": 217,
+      "2024-07-10": 55,
+      "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -487,8 +486,7 @@
       "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
-      "2023-07-12": 1440,
-      "2023-07-11": 1440
+      "2023-07-12": 1440
     }
   }
 ]
