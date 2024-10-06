@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 147,
-    "timeWeek": 117,
+    "timeDay": 81,
+    "timeWeek": 116,
     "timeMonth": 113,
     "timeYear": 103,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 252,
-    "timeWeek": 306,
-    "timeMonth": 272,
+    "timeDay": 196,
+    "timeWeek": 275,
+    "timeMonth": 277,
     "timeYear": 213,
     "dailyMinutesDown": {}
   },
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 305,
-    "timeDay": 383,
-    "timeWeek": 379,
-    "timeMonth": 324,
+    "time": 304,
+    "timeDay": 307,
+    "timeWeek": 401,
+    "timeMonth": 330,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2024-06-25": 15,
@@ -61,8 +61,7 @@
       "2023-12-28": 20,
       "2023-12-15": 26,
       "2023-12-12": 217,
-      "2023-11-16": 24,
-      "2023-10-07": 18
+      "2023-11-16": 24
     }
   },
   {
@@ -95,9 +94,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 28,
-    "timeDay": 51,
-    "timeWeek": 33,
-    "timeMonth": 32,
+    "timeDay": 17,
+    "timeWeek": 32,
+    "timeMonth": 31,
     "timeYear": 27,
     "dailyMinutesDown": {
       "2024-05-01": 35
@@ -109,7 +108,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "10.50%",
+    "uptime": "10.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -120,7 +119,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-05": 62,
+      "2024-10-06": 67,
+      "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -483,8 +483,7 @@
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
-      "2023-10-08": 1440,
-      "2023-10-07": 1440
+      "2023-10-08": 1440
     }
   }
 ]
